@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+}
+
+
+.sb-nav-link-icon {
+    width: 20px; /* Sesuaikan width agar ikon punya ukuran yang sama */
+    display: inline-block;
+    text-align: center;
+}
+
